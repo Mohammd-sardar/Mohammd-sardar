@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Mohammd-sardar
-- 👀 I’m interested in Coding
+
 
 
 <!---
